@@ -43,3 +43,14 @@ What happens when you open / merge a fast forward PR in GitHub?
   * ```--ff-only```: refuse to merge and exit if no a fast forward scenario
   
   **CAUTON** when specifying both ```--no-ff``` and ```--ff-only```, ```--ff-only``` takes precedence and will ignore ```--no-ff```, so it will either merge with no commit in a fast forward scenario, or it will abort the merge and exit in any other scenario.
+
+
+### Merge terminology
+
+* feature -> master
+
+* master -> feature
+
+* head -> base
+
+* donor -> recipient
