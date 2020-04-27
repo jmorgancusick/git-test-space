@@ -2,7 +2,7 @@
 A public repo used to mess around with git
 
 
-To simpify, consider that youwill always update your feature branch before a merge. If your feature branch does not have the latest from master, feature -> master will always lead to a non-fast-foward merge commit
+To simpify, consider that you will always update your feature branch before a merge. If your feature branch does not have the latest from master, feature -> master will always lead to a non-fast-foward merge commit
 
 # Merge vs rebase
 
