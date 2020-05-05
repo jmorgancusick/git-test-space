@@ -10,7 +10,7 @@ To simpify, consider that you will always update your feature branch before a me
 
 * Either way, you use merge to go from feature -> master, because master is most certainly public and rebase deletes commits from the base (recipient) branch
 
-* If you updated your feature branch before feature -> master, this will be a fast forward merge, and the merge commit is option, at the discretion of you / GitHub
+* If you updated your feature branch before feature -> master, this will be a fast forward merge, and the merge commit is optional, at the discretion of you / GitHub
 
 * "Rewrite history"
 
