@@ -16,7 +16,7 @@ To simpify, consider that you will always update your feature branch before a me
 
   * merge won't preserve the **order** of commits
   
-  * rebase won't preserve the bass / recipient branch (typically feature when used properly) commits **AT ALL**
+  * rebase won't preserve the base / recipient branch (typically feature when used properly) commits **AT ALL**
   
 * *Fast forward merge*: the recipient branch's HEAD COMMIT (current position, not to be mistaken with the "head" / donor branch) must be in the commit history of the donor / head branch.
 
